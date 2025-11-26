@@ -1,6 +1,0 @@
-pandas
-plotly
-dearpygui
-openpyxl
-xlrd
-numpy
