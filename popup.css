@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 8px; width: 360px; }
+.container { display: grid; gap: 10px; }
+.card { background: #fff; border-radius: 8px; padding: 10px; box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
+h2 { margin: 0 0 6px 0; font-size: 18px; }
+#score { font-weight: bold; font-size: 16px; }
+#sites-list { list-style: none; padding: 0; margin: 6px 0; max-height: 120px; overflow: auto; }
+#sites-list li { padding: 4px 0; border-bottom: 1px solid #eee; }
+button { padding: 8px 10px; border: none; border-radius: 6px; background: #2563eb; color: white; cursor: pointer; }
+button:active { transform: translateY(1px); }
+.footer { text-align: center; }
